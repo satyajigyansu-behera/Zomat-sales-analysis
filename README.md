@@ -1,5 +1,5 @@
 # zomata-sales-analysis
-This project focuses on analyzing sales data from Jomato, a popular online food delivery platform, to gain insights into various aspects of restaurant operations and customer preferences. The analysis is conducted on a location-wise basis to understand trends and patterns across different areas.
+This project focuses on analyzing sales data of Jomato, a popular online food delivery platform, to gain insights into various aspects of restaurant operations and customer preferences. The analysis is conducted on a location-wise basis to understand trends and patterns across different areas.
 
 ## Key Questions Explored:
 1.Restaurant Facilities:
