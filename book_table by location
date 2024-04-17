@@ -1,0 +1,83 @@
+book_table,location,name
+No,BTM,4889
+No,Banashankari,839
+No,Banaswadi,632
+No,Bannerghatta Road,1510
+No,Basavanagudi,668
+No,Bellandur,1170
+No,Brigade Road,1034
+No,Brookefield,582
+No,Church Street,385
+No,Commercial Street,370
+No,Cunningham Road,315
+No,Domlur,427
+No,Ejipura,433
+No,Electronic City,1148
+No,Frazer Town,706
+No,HSR,2277
+No,Indiranagar,1578
+No,JP Nagar,1903
+No,Jayanagar,1637
+No,Kalyan Nagar,692
+No,Kammanahalli,590
+No,Koramangala 1st Block,1186
+No,Koramangala 4th Block,695
+No,Koramangala 5th Block,1787
+No,Koramangala 6th Block,1015
+No,Koramangala 7th Block,1012
+No,Lavelle Road,290
+No,MG Road,546
+No,Malleshwaram,632
+No,Marathahalli,1642
+No,New BEL Road,588
+No,Old Airport Road,378
+No,Rajajinagar,550
+No,Residency Road,522
+No,Richmond Road,687
+No,Sarjapur Road,893
+No,Shanti Nagar,451
+No,Shivajinagar,475
+No,St. Marks Road,219
+No,Ulsoor,834
+No,Whitefield,1852
+No,other,4587
+Yes,BTM,167
+Yes,Banashankari,63
+Yes,Banaswadi,8
+Yes,Bannerghatta Road,99
+Yes,Basavanagudi,16
+Yes,Bellandur,98
+Yes,Brigade Road,176
+Yes,Brookefield,74
+Yes,Church Street,181
+Yes,Cunningham Road,175
+Yes,Domlur,55
+Yes,Electronic City,98
+Yes,Frazer Town,8
+Yes,HSR,217
+Yes,Indiranagar,448
+Yes,JP Nagar,315
+Yes,Jayanagar,279
+Yes,Kalyan Nagar,149
+Yes,Kammanahalli,49
+Yes,Koramangala 1st Block,50
+Yes,Koramangala 4th Block,322
+Yes,Koramangala 5th Block,692
+Yes,Koramangala 6th Block,112
+Yes,Koramangala 7th Block,162
+Yes,Lavelle Road,228
+Yes,MG Road,347
+Yes,Malleshwaram,89
+Yes,Marathahalli,163
+Yes,New BEL Road,56
+Yes,Old Airport Road,59
+Yes,Rajajinagar,41
+Yes,Residency Road,149
+Yes,Richmond Road,116
+Yes,Sarjapur Road,154
+Yes,Shanti Nagar,57
+Yes,Shivajinagar,23
+Yes,St. Marks Road,124
+Yes,Ulsoor,177
+Yes,Whitefield,253
+Yes,other,367
